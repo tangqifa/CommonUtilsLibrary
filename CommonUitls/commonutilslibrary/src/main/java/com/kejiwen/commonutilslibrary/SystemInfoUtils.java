@@ -97,7 +97,6 @@ public class SystemInfoUtils {
      * Extract the decimal positive integer from specified string.
      *
      * @param str The string to extract.
-     * @return
      */
     public static int extractPositiveInteger(String str, int defValue) {
         final int N = str.length();

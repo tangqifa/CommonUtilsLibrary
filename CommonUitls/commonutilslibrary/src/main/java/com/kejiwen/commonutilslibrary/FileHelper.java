@@ -317,8 +317,6 @@ public class FileHelper {
 
     /**
      * null may be returned if no extension found
-     * 
-     * @return
      */
     public static String replaceFileExtensionName(String filename, String newExt) {
         int index = filename.lastIndexOf('.');
