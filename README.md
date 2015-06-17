@@ -27,3 +27,10 @@
 [SystemInfoUtils](https://github.com/tangqifa/CommonUtilsLibrary/blob/master/CommonUitls/commonutilslibrary/src/main/java/com/kejiwen/commonutilslibrary/SystemInfoUtils.java) 系统信息帮助类
 
 [ToastUtil](https://github.com/tangqifa/CommonUtilsLibrary/blob/master/CommonUitls/commonutilslibrary/src/main/java/com/kejiwen/commonutilslibrary/ToastUtil.java) Toast帮助类
+## Android Studio快速集成
+
+dependencies { 
+  
+    compile 'com.kejiwen.commonutilslibrary:commonutilslibrary:1.0.1'
+    
+}
